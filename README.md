@@ -19,6 +19,9 @@ The number of rounds depends on the key length as follows :
      | b8  | b9  | b10 | b11 |         | b10 | b11 | b8  | b9  |
      [ b12 | b13 | b14 | b15 ]         [ b15 | b12 | b13 | b14 ]
 
+ Decryption is the process of converting an encrypted message back to its original (readable) format. The original message is 
+ called the plaintext message. The encrypted message is called the ciphertext message.    
+
 
 
 
