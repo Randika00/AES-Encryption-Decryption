@@ -22,7 +22,7 @@ The number of rounds depends on the key length as follows :
  Decryption is the process of converting an encrypted message back to its original (readable) format. The original message is 
  called the plaintext message. The encrypted message is called the ciphertext message.In decryption, the system extracts and 
  converts the garbled data and transforms it to texts and images that are easily understandable not only by the reader but also
- by the system. Decryption may be accomplished manually or automatically. It may also be performed with a set of keys or passwords. 
+ by the system. Decryption may be accomplished manually or automatically. It may also be performed with a set of keys or passwords.  
 
 
 
